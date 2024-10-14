@@ -7,6 +7,7 @@ git clone https://github.com/MannShrestha/MLOps-US-Visa-Machine-Learning-Project
 - Git: https://git-scm.com/
 - Flowchart: https://whimsical.com/
 - MLOPs Tool: https://www.evidentlyai.com/
+- MongoDB: https://account.mongodb.com/account/login
 
 # Git Commands
 git status
