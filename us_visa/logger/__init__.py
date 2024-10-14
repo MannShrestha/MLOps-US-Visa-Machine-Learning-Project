@@ -21,3 +21,5 @@ logging.basicConfig(
         logging.StreamHandler(sys.stdout)
     ]
 )
+
+logging.getLogger("cnnClassifierLogger")
